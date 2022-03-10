@@ -1,0 +1,39 @@
+2021-07-27 15:15:37,291 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-07-27 15:15:37,312 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-07-27 15:15:37,313 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-07-27 15:15:37,315 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: Version 5.2.1
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: java.version=1.8.0_161
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: os.name=Windows 7
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: os.arch=amd64
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: os.version=6.1
+2021-07-27 15:15:37,316 INFO o.a.j.JMeter: file.encoding=GBK
+2021-07-27 15:15:37,317 INFO o.a.j.JMeter: java.awt.headless=null
+2021-07-27 15:15:37,317 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-07-27 15:15:37,317 INFO o.a.j.JMeter: Available Processors =4
+2021-07-27 15:15:37,323 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-07-27 15:15:37,323 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-07-27 15:15:37,323 INFO o.a.j.JMeter: JMeterHome=C:\Users\Administrator\Desktop\中间件安装包\apache-jmeter-5.2.1
+2021-07-27 15:15:37,324 INFO o.a.j.JMeter: user.dir  =C:\Users\Administrator\Desktop\中间件安装包\apache-jmeter-5.2.1\bin
+2021-07-27 15:15:37,324 INFO o.a.j.JMeter: PWD       =C:\Users\Administrator\Desktop\中间件安装包\apache-jmeter-5.2.1\bin
+2021-07-27 15:15:37,325 INFO o.a.j.JMeter: IP: 192.168.243.1 Name: USER-20210711FR FullName: USER-20210711FR
+2021-07-27 15:15:37,587 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2021-07-27 15:15:37,623 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2021-07-27 15:15:37,624 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2021-07-27 15:15:37,710 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-07-27 15:15:40,305 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-27 15:15:40,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-27 15:15:40,306 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-27 15:15:40,307 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-07-27 15:15:40,307 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-07-27 15:15:40,307 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-07-27 15:15:40,551 INFO o.a.j.e.KeyToolUtils: Exception checking for keytool existence, will return false, try another way.
+2021-07-27 15:15:40,918 INFO o.a.j.e.KeyToolUtils: keytool found at 'D:\javatools\Java\jre1.8.0_161\bin\keytool'
+2021-07-27 15:15:40,919 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\Administrator\Desktop\中间件安装包\apache-jmeter-5.2.1\bin\proxyserver.jks
+2021-07-27 15:15:41,148 INFO o.a.j.s.FileServer: Default base='C:\Users\Administrator\Desktop\中间件安装包\apache-jmeter-5.2.1\bin'
+2021-07-27 15:15:41,895 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-07-27 15:15:41,895 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-07-27 15:15:41,895 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-07-27 15:15:41,895 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-07-27 15:15:47,528 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
